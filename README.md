@@ -26,7 +26,7 @@ ou se apenas quiser conversar sobre código!
 
 Você pode me encontrar nas seguintes redes sociais:
 
-- [LinkedIn](https://www.linkedin.com/in/André Nogueira Lopes)
+- [[LinkedIn]:(https://www.linkedin.com/in/andr%C3%A9-nogueira-lopes-b96995169/)
 
 Obrigado por visitar meu perfil, e tenha um ótimo dia!
 
