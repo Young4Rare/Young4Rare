@@ -14,6 +14,6 @@ I've already attended HTML, CSS, JavaScript, Java, and Python courses.
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camagnum&theme=transparent&bg_color=000&border_color=FF3849&show_icons=true&icon_color=FF3849&title_color=FF3849&text_color=FFF&hide=stars&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Young4Rare&theme=transparent&bg_color=000&border_color=FF3849&show_icons=true&icon_color=FF3849&title_color=FF3849&text_color=FFF&hide=stars&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camagnum&bg_color=000&border_color=FF3849&title_color=FF3849&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Young4Rare&bg_color=000&border_color=FF3849&title_color=FF3849&text_color=FFF)
