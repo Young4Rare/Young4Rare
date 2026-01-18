@@ -55,10 +55,17 @@ I've already attended HTML, CSS, JavaScript, Java, and Python courses.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Young4Rare&show_icons=true&theme=dark&hide_title=true&hide=stars&count_private=true&include_all_commits=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Young4Rare&show_icons=true&theme=dark&hide_title=true&hide=stars&count_private=true&include_all_commits=true"
+  height="165"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young4Rare&layout=compact&theme=dark&langs_count=8" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young4Rare&layout=compact&theme=dark&langs_count=8"
+  height="165"
+/>
 
 </div>
+
 
 
