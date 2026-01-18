@@ -49,27 +49,37 @@ I've already attended HTML, CSS, JavaScript, Java, and Python courses.
 ---
                           
  
-
 ## 🚀 GitHub Activity
 
 <div align="center">
 
+<!-- CARD PRINCIPAL -->
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Young4Rare&show_icons=true&theme=transparent&hide_title=true&hide=stars&count_private=true&include_all_commits=true&border_color=FF3849&icon_color=FF3849&title_color=FF3849&text_color=FFFFFF"
+  src="https://github-readme-stats.vercel.app/api?username=Young4Rare&show_icons=true&hide_title=true&hide=stars&count_private=true&include_all_commits=true&theme=transparent&border_color=FF004C&icon_color=FF004C&title_color=FF004C&text_color=FFFFFF"
+  style="box-shadow: 0 0 15px #FF004C;"
+  width="90%"
 />
 
+<br/>
+
+<!-- STREAK -->
 <img
-  height="165"
-  src="https://streak-stats.demolab.com?user=Young4Rare&theme=transparent&border=FF3849&stroke=FF3849&ring=FF3849&fire=FF3849&currStreakLabel=FF3849&sideLabels=FF3849&dates=FFFFFF"
+  src="https://streak-stats.demolab.com?user=Young4Rare&theme=transparent&border=FF004C&stroke=FF004C&ring=FF004C&fire=FF004C&currStreakLabel=FF004C&sideLabels=FF004C&dates=FFFFFF"
+  style="box-shadow: 0 0 15px #FF004C;"
+  width="90%"
 />
 
+<br/>
+
+<!-- LINGUAGENS -->
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young4Rare&layout=compact&theme=transparent&langs_count=8&border_color=FF3849&title_color=FF3849&text_color=FFFFFF"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young4Rare&layout=compact&langs_count=8&theme=transparent&border_color=FF004C&title_color=FF004C&text_color=FFFFFF"
+  style="box-shadow: 0 0 15px #FF004C;"
+  width="90%"
 />
 
 </div>
+
 
 
 
