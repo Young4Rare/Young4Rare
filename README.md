@@ -51,11 +51,10 @@ I've already attended HTML, CSS, JavaScript, Java, and Python courses.
  
 ## 🚀 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Young4Rare&show_icons=true&theme=radical)
+
 
 ![Streak](https://streak-stats.demolab.com?user=Young4Rare&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Young4Rare&layout=compact&theme=radical)
 
 
 
