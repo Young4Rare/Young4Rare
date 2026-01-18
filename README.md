@@ -51,34 +51,12 @@ I've already attended HTML, CSS, JavaScript, Java, and Python courses.
  
 ## 🚀 GitHub Activity
 
-<div align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=Young4Rare&show_icons=true&theme=radical)
 
-<!-- CARD PRINCIPAL -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Young4Rare&show_icons=true&hide_title=true&hide=stars&count_private=true&include_all_commits=true&theme=transparent&border_color=FF004C&icon_color=FF004C&title_color=FF004C&text_color=FFFFFF"
-  style="box-shadow: 0 0 15px #FF004C;"
-  width="90%"
-/>
+![Streak](https://streak-stats.demolab.com?user=Young4Rare&theme=radical)
 
-<br/>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Young4Rare&layout=compact&theme=radical)
 
-<!-- STREAK -->
-<img
-  src="https://streak-stats.demolab.com?user=Young4Rare&theme=transparent&border=FF004C&stroke=FF004C&ring=FF004C&fire=FF004C&currStreakLabel=FF004C&sideLabels=FF004C&dates=FFFFFF"
-  style="box-shadow: 0 0 15px #FF004C;"
-  width="90%"
-/>
-
-<br/>
-
-<!-- LINGUAGENS -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Young4Rare&layout=compact&langs_count=8&theme=transparent&border_color=FF004C&title_color=FF004C&text_color=FFFFFF"
-  style="box-shadow: 0 0 15px #FF004C;"
-  width="90%"
-/>
-
-</div>
 
 
 
