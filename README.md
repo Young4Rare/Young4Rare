@@ -51,11 +51,7 @@ I've already attended HTML, CSS, JavaScript, Java, and Python courses.
 
 ## 🚀 GitHub Activity
 
-![Stats](https://young4rare-github-stats.vercel.app/api?username=Young4Rare&theme=transparent&ring_color=FF2CF7&fire=FF2CF7&currStreakLabel=FF2CF7)
-
-![Languages](https://young4rare-github-stats.vercel.app/api/top-langs/?username=Young4Rare&layout=compact&theme=transparent&title_color=FF2CF7&text_color=FFFFFF)
-
-![Streak](https://streak-stats.demolab.com?user=Young4Rare&theme=transparent&ring=FF2CF7&fire=FF2CF7&currStreakLabel=FF2CF7)
+![Streak](https://streak-stats.demolab.com?user=Young4Rare&theme=radical)
 
 
 
